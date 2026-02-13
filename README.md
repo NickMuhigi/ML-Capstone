@@ -159,11 +159,12 @@ http://127.0.0.1:5000/
 
 ## Video Demo
 
-**Link:** https://github.com/NickMuhigi/ML-Capstone.git
+**Link:** https://drive.google.com/file/d/1jwSzc5vbvKDeHZQdXKkY-CeTgxDGCg0Q/view?usp=sharing
 
 ## Design Screenshots
-
-[Add any academic notes, citations, or research context here]
+<img width="1918" height="923" alt="1" src="https://github.com/user-attachments/assets/0ff1f3e4-e2fd-4a94-bc60-4847f8339657" />
+<img width="1918" height="922" alt="2" src="https://github.com/user-attachments/assets/af0c30ba-6429-428e-bedf-041418368af3" />
+<img width="1896" height="922" alt="3" src="https://github.com/user-attachments/assets/f3291ff9-1fbe-4bed-8f70-59377882c24b" />
 
 
 ## Contributors
